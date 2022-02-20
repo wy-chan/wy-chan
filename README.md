@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wy-chan
+👋 Hi, I’m @wy-chan
 
 <h2><a href="https://wy-chan.github.io/devchallenges_Portfolio/" target="_blank"> My Portfolio Page (Web Development)</a> </h2>
 
