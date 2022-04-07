@@ -4,8 +4,9 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
    
 <br>
-<h2>My Portfolio Page (Web Development)</h2>
+<h2>My Portfolio</h2>
 <br>
+Web Development ↓
 <a href="https://wy-chan.github.io/devchallenges_Portfolio/" target="_blank">
 <img src="https://raw.githubusercontent.com/wy-chan/devchallenges_Portfolio/main/images/screenshot5.png" alt="screenshot" height="180" width="250">
 </a>
