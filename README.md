@@ -1,13 +1,9 @@
 👋 Hi, I’m @wy-chan
 
-<div style="background-color:gray" border="1px solid gray">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&hide_border=true)](https://github.com/wy-chan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&hide_border=true&border_radius=5px&bg_color=#eee)](https://github.com/wy-chan/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-chan&hide_border=true)](https://github.com/wy-chan/github-readme-stats)
-  
-</div>
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-chan&hide_border=true&border_radius=5px&bg_color=#eee)](https://github.com/wy-chan/github-readme-stats)
+   
 <br>
 <br>
 <h2><a href="https://wy-chan.github.io/devchallenges_Portfolio/" target="_blank"> My Portfolio Page (Web Development)</a> </h2>
