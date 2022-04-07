@@ -1,8 +1,8 @@
 👋 Hi, I’m @wy-chan
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&border_radius=10px&border_color=F7D3B3&bg_color=fefefe)](https://github.com/wy-chan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&border_radius=10px&border_color=F7D3B3&bg_color=f5f5f5)](https://github.com/wy-chan/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-chan&border_radius=10px&border_color=ACF0DE&bg_color=fefefe)](https://github.com/wy-chan/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-chan&border_radius=10px&border_color=ACF0DE&bg_color=f5f5f5)](https://github.com/wy-chan/github-readme-stats)
    
 <br>
 <br>
