@@ -1,6 +1,6 @@
 👋 Hi, I’m @wy-chan
 
-<div style="background-color:gray">
+<div style="background-color:gray" border="1px solid gray">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&hide_border=true)](https://github.com/wy-chan/github-readme-stats)
 
