@@ -5,9 +5,10 @@
    
 <h2>My Portfolio</h2>
 <h4><a href="https://wy-chan.github.io/Portfolio/">Web Development:</a></h4>
-<a href="https://wy-chan.github.io/Portfolio/" target="_blank">
+|<a href="https://wy-chan.github.io/Portfolio/" target="_blank">
 <img src="https://raw.githubusercontent.com/wy-chan/Portfolio/main/images/portfolio_img.png" alt="screenshot" height="200">
-</a>
+</a>|
+|---|
 <br>
 
 
