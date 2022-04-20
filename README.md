@@ -8,7 +8,7 @@
 |<a href="https://wy-chan.github.io/Portfolio/" target="_blank">
 <img src="https://raw.githubusercontent.com/wy-chan/Portfolio/main/images/portfolio_img.png" alt="screenshot" height="200">
 </a>|
-|---|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 <br>
 
 
