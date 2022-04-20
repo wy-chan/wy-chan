@@ -4,9 +4,9 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
    
 <h2>My Portfolio</h2>
-<h4><a href="https://wy-chan.github.io/devchallenges_Portfolio/">Web Development:</a></h4>
-<a href="https://wy-chan.github.io/devchallenges_Portfolio/" target="_blank">
-<img src="https://raw.githubusercontent.com/wy-chan/devchallenges_Portfolio/main/images/screenshot5.png" alt="screenshot" height="180" width="250">
+<h4><a href="https://wy-chan.github.io/Portfolio/">Web Development:</a></h4>
+<a href="https://wy-chan.github.io/Portfolio/" target="_blank">
+<img src="https://raw.githubusercontent.com/wy-chan/Portfolio/main/images/portfolio_img.png" alt="screenshot" height="150" width="250">
 </a>
 <br>
 
