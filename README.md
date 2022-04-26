@@ -4,7 +4,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
    
 <h2>My Portfolio</h2>
-<h4><a href="https://wy-chan.github.io/Portfolio/">Portfolio - Web Development:</a></h4>
+<h4><a href="https://wy-chan.github.io/Portfolio/">Web Development Portfolio:</a></h4>
 
 | <a href="https://wy-chan.github.io/Portfolio/" target="_blank"><img src="portfolio_img.png" alt="screenshot" height="210"></a> |
 | ------ |
