@@ -2,15 +2,18 @@
 
 ## My Portfolio 
 
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&hide_border=true&title_color=05BB63)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-chan&border_radius=5px&hide_border=true&title_color=05BB63)](https://github.com/anuraghazra/github-readme-stats)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+   
+---
+
 | <h3><a href="https://wy-chan.github.io/Portfolio/">Web Development Portfolio:</a></h3><kbd><a href="https://wy-chan.github.io/Portfolio/" target="_blank"><img src="portfolio_img.png" alt="screenshot" width="300"></a></kbd> |
 | ------ |
 
 ---
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&hide_border=true&title_color=05BB63)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-chan&border_radius=5px&hide_border=true&title_color=05BB63)](https://github.com/anuraghazra/github-readme-stats)|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-   
----
+
+
 ## My Credly Badges
 → [see all badges](https://www.credly.com/users/wy-chan/badges)
 
