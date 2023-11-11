@@ -3,7 +3,11 @@
 
 | <h4><a href="https://wy-chan.github.io/Portfolio/">Web Development Portfolio:</a></h4><kbd><a href="https://wy-chan.github.io/Portfolio/" target="_blank"><img src="portfolio_img.png" alt="screenshot" width="300"></a></kbd> |
 | ------ |
+
 <br>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&hide_border=true&title_color=05BB63)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-chan&border_radius=5px&hide_border=true&title_color=05BB63)](https://github.com/anuraghazra/github-readme-stats)|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
