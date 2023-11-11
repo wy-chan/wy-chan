@@ -1,7 +1,7 @@
-👋 Hi, I’m @wy-chan
-<h2>My Portfolio</h2>
+<p id="top">👋 Hi, I’m @wy-chan</p>
+## My Portfolio 
 
-| <h4><a href="https://wy-chan.github.io/Portfolio/">Web Development Portfolio:</a></h4><kbd><a href="https://wy-chan.github.io/Portfolio/" target="_blank"><img src="portfolio_img.png" alt="screenshot" width="300"></a></kbd> |
+| <h3><a href="https://wy-chan.github.io/Portfolio/">Web Development Portfolio:</a></h3><kbd><a href="https://wy-chan.github.io/Portfolio/" target="_blank"><img src="portfolio_img.png" alt="screenshot" width="300"></a></kbd> |
 | ------ |
 
 ---
@@ -10,6 +10,8 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
    
 ---
+## My Credly Badges
+(→ [see all badges](https://www.credly.com/users/wy-chan/badges))
 
 <!--START_SECTION:badges-->
 [![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](http://www.credly.com/badges/670f20dc-4d26-445d-95ab-a0a756d7b9b6 "Databases and SQL for Data Science")
@@ -21,6 +23,9 @@
 [![[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer](https://images.credly.com/size/110x110/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png)](http://www.credly.com/badges/36f83975-ef56-4003-b9e3-b73fce521372 "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer")
 <!--END_SECTION:badges-->
 
+---
+
+<p align="center">- <a href="#top">Back to Top</a> -</p>
 
 <!---
 wy-chan/wy-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
