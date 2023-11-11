@@ -11,7 +11,7 @@
    
 ---
 ## My Credly Badges
-(→ [see all badges](https://www.credly.com/users/wy-chan/badges))
+→ [see all badges](https://www.credly.com/users/wy-chan/badges)
 
 <!--START_SECTION:badges-->
 [![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](http://www.credly.com/badges/670f20dc-4d26-445d-95ab-a0a756d7b9b6 "Databases and SQL for Data Science")
