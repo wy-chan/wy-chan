@@ -6,11 +6,12 @@
 
 <br>
 
-
+---
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy-chan&hide_border=true&title_color=05BB63)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-chan&border_radius=5px&hide_border=true&title_color=05BB63)](https://github.com/anuraghazra/github-readme-stats)|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
    
+---
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
