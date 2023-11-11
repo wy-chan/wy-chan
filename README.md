@@ -15,7 +15,7 @@
 
 
 ## My Credly Badges
-→ [see all badges](https://www.credly.com/users/wy-chan/badges)
+
 
 <!--START_SECTION:badges-->
 [![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](http://www.credly.com/badges/670f20dc-4d26-445d-95ab-a0a756d7b9b6 "Databases and SQL for Data Science")
@@ -26,6 +26,8 @@
 [![[CLE-10-01] CLE – C Certified Entry-Level Programmer](https://images.credly.com/size/110x110/images/101483f0-ed9b-46c8-b018-f5290e60a6a1/cle.png)](http://www.credly.com/badges/d173d27b-73f8-44eb-a390-f15e27fc510b "[CLE-10-01] CLE – C Certified Entry-Level Programmer")
 [![[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer](https://images.credly.com/size/110x110/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png)](http://www.credly.com/badges/36f83975-ef56-4003-b9e3-b73fce521372 "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer")
 <!--END_SECTION:badges-->
+
+[see all badges](https://www.credly.com/users/wy-chan/badges)
 
 ---
 
