@@ -19,6 +19,7 @@
 
 
 <!--START_SECTION:badges-->
+[![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](http://www.credly.com/badges/18c0819a-9675-437e-a0f7-f82e5e4037d6 "Machine Learning with Python")
 [![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](http://www.credly.com/badges/670f20dc-4d26-445d-95ab-a0a756d7b9b6 "Databases and SQL for Data Science")
 [![Data Science Methodology](https://images.credly.com/size/110x110/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)](http://www.credly.com/badges/f33042f6-c051-4267-bdd3-d18982cd6dae "Data Science Methodology")
 [![Data Science Orientation](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](http://www.credly.com/badges/388d4eb7-cb99-43ba-aa95-0323cc0dede5 "Data Science Orientation")
